@@ -1,0 +1,1 @@
+getName name = "Hello " ++ name ++ "!;"
